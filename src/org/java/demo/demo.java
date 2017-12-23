@@ -5,5 +5,6 @@ public class demo {
 		
 		System.out.println(1);
 		
+		System.out.println("222");
 	}
 }
